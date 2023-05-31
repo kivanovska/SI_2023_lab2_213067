@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-31T16:43:30" hostname="DESKTOP-CGH10AS" time="0.031">
+  <properties/>
+  <testcase name="MultipleCondition()" classname="SILab2Test" time="0.027"/>
+  <testcase name="EveryBranchAndException()" classname="SILab2Test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
